@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Azizakhon</h1>
 
-<h3 align="center">A passionate QA Automation Engineer from Turkey</h3>
+<h3 align="center">A passionate QA Automation Engineer from USA</h3>
 
  <h4 align="center">- 🌱 I’m currently learning **Appium**</h4>
  <h4 align="center">- 📫 How to reach me **khu.aziza.91@gmail.com**</h4>
