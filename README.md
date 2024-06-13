@@ -22,7 +22,7 @@
 
 ### </path></svg>  </a> About Me ✅  </h2>
 
-<h4 align="center">Hi 👋,I'm experienced in testing websites and apps using Selenium, Cucumber, and TestNG, with over 9 mounths of practice. Skilled in planning and executing tests efficiently. Proficient in Java for coding effective test scripts. Strong communicator, detail-oriented, and team player."</h4>
+<h4 align="center">Hi 👋,I'm experienced in testing websites and apps using Selenium, Cucumber, and TestNG, with over 9 months of practice. Skilled in planning and executing tests efficiently. Proficient in Java for coding effective test scripts. Strong communicator, detail-oriented, and team player."</h4>
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/azizakhon-khudoyarova-099204301/" target="_blank">
